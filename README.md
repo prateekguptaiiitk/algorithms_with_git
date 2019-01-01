@@ -40,6 +40,7 @@ Happy Open Sourcing!
 - [Graph Coloring using backtracking](algorithms/Graph/graph_coloring)
 - [L-ary Heap](algorithms/Graph/L-ary)
 - [Bellman Ford Shortest Path](algorithms/Graph/Bellman_Ford)
+- [Kruskal Minimum Spanning Tree](algorithms/Graph/Kruskal)
 
 ### Maths
 
