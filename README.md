@@ -39,6 +39,8 @@ Happy Open Sourcing!
 - [Floyd Warshall Algorithm](algorithms/Graph/floyd_warshall)
 - [Graph Coloring using backtracking](algorithms/Graph/graph_coloring)
 - [L-ary Heap](algorithms/Graph/L-ary)
+- [Bellman Ford Shortest Path](algorithms/Graph/Bellman_Ford)
+- [Kruskal Minimum Spanning Tree](algorithms/Graph/Kruskal)
 
 ### Maths
 
@@ -54,6 +56,7 @@ Happy Open Sourcing!
 - [Last_Men_Standing](algorithms/Maths/last_men_standing)
 - [Modulo Square Root](algorithms/Maths/Modulo-Square-Root)
 - [Sum_of_fibonacci_numbers](algorithms/Maths/Sum_of_fibonacci_numbers)
+- [Check_if_given_number_is_Fibonacci_number](algorithms/maths/Check_if_given_number_is_Fibonacci_number)
 
 ### Sorting
 
@@ -66,6 +69,9 @@ Happy Open Sourcing!
 - [Radix Sort](algorithms/Sorting/radix_sort)
 - [Selection Sort](algorithms/Sorting/selection_sort)
 - [Tree Sort](algorithms/Sorting/tree_sort)
+- [Shell Sort](algorithms/Sorting/Shell_sort)
+- [Bucket Sort](algorithms/Sorting/Bucket_sort)
+
 
 ### Searching
 
@@ -74,10 +80,10 @@ Happy Open Sourcing!
 - [Jump_search](algorithms/Searching/Jump_search)
 - [Interpolation_search](algorithms/Searching/Interpolation_search)
 
-
 ### Strings
 - [Caesar's Cipher](algorithms/Strings/Caesar's_cipher)
 - [KMP Pattern Search Alogrithm](algorithms/Strings/KMP_Pattern_Search_Algorithm)
 - [Z's Alogrithm](algorithms/Strings/Z_Algorithm)
 - [Rabin-Karp Algorithm](algorithms/strings/Rabin_-_Karp_algorithm)
 - [Naive algorithm for Pattern Searching](algorithms/strings/Naive_algorithm_for_pattern_searching)
+- [Anagram](algorithms/Strings/Anagram)
